@@ -1,0 +1,80 @@
+body,html{
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.container{
+    margin:auto;
+    align-self: center;
+    border:2px solid black;
+    max-width: 1000px;
+    background-image: url("station1.jpg");
+    background-blend-mode:multiply;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    
+}
+
+
+
+h1{
+    text-align: center;
+    padding: 25px 50px 0px;
+    font-size: 2em;
+
+}
+
+h2{
+    text-align: center; 
+    margin-top: 0;
+    padding-top: 0px;
+    font-size: 50px;
+   
+}
+
+
+button{
+    border: none;
+    color:white;
+    font-weight: bold;
+    padding: 10px auto 10px;
+    margin-bottom: .5em;
+    font-weight: bold;
+    width:200px;
+    height:35px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn{
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-btn{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#increment-btn{
+    background: darkred;
+}
+
+
+#save-btn{
+    background: darkgreen;
+    
+}
+
+#clear-btn{
+    color: black;
+    width: 150px;
+
+}
+
+p{
+    margin-bottom: .2em;
+}
