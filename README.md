@@ -24,5 +24,8 @@ My objective for this project was to touch up my skills on HTML, CSS and JavaScr
     Total display will split into Previous Entries and Total count. to keep track how many times the save button was used and keep a clear total.
     Image. client wants an image of a bus stop to the background of the box.
     
-#Dev Notes
-Requirements may be added or removed
+# Dev Notes
+Requirements may be added or removed.
+Future tasks/ new implementations:
+    1) test how many entries that can be saved
+    2) buttons highlights when user hover over them
